@@ -14,6 +14,6 @@
 - "Лаба3_блок-схема_превью.svg" для открытия в браузере.
 
 ## Как установить и запустить
-Выполните команду `git clone https://github.com/thomasidze/OP-Lub3`;
-Установите .NET SDK;
-Выполните команду `dotnet run`.
+- Выполните команду `git clone https://github.com/thomasidze/OP-Lub3`;
+- Установите .NET SDK;
+- Выполните команду `dotnet run`.
